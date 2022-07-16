@@ -1,0 +1,7 @@
+DATA USER 
+username : zakariawahyu
+pass : 123
+
+DATA ADMIN
+username : admin
+pass : 123
